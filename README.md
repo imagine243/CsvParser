@@ -6,7 +6,7 @@ it use for cocos2dx 2.2.3.
 parser a csv file to a lot maps.
 
 ###usage
-```
+
 	CsvParser * textParser = CsvParser::create("resources/config/tag_text.csv");
     CsvParser * soundParser = CsvParser::create("resources/config/tag_sound.csv");
 
@@ -27,4 +27,3 @@ parser a csv file to a lot maps.
 
 		textConfigArray->addObject(textConfig);
 	}
-```
